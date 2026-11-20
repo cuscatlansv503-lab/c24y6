@@ -17,5 +17,17 @@
     "title": "Canal 6🇸🇻",
     "file": "http://186.33.0.57:8000/play/a02c/index.m3u8",
     "image": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=7319"
+  },
+  {
+    "id": "4",
+    "title": "Canal 2🇸🇻 op2",
+    "file": "http://190.61.101.11:7050/play/a06z/index.m3u8",
+    "image": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=7320"
+  },
+  {
+    "id": "2",
+    "title": "Canal 4🇸🇻 op2",
+    "file": "http://190.61.101.11:7050/play/a06y/index.m3u8",
+    "image": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=7242"
   }
  ]
